@@ -1,11 +1,21 @@
 # Cities Skyline II McDonalds Decals
-McDonalds Signal Pack for Cities Skyline II 
+## by Kaidius 
+McDonalds Signal Pack for Cities Skyline II
+In the long term, I would like to create and publish a McDonalds asset for Cities Skyline II.
+This is the first time I've tried modding. I only have experience in web design and media design. I still hope you'll like this project. Your Kaidius
 
+## Support
+You can get support on [Discord by Sully](https://discord.gg/SHfQrBvnkp)
 
-# Support
-You can get support on Discord https://discord.gg/SHfQrBvnkp
+**Triton Supreme**  https://github.com/AlphaGaming7780/ExtraAssetsImporter/wiki/Custom-Decals
 
-# Special thanks to:
+## Special thanks go to:
 Sully  
-:Youtube: YouTube:https://www.youtube.com/@sully_skylines 
-:twitter: Twitter/X: https://twitter.com/Sully_Skylines
+**YouTube:** https://www.youtube.com/@sully_skylines 
+**Twitter/X:** https://twitter.com/Sully_Skylines
+
+
+## Community
+> [!TIP]
+> Looking to discuss Cities: Skylines 2 Unofficial modding together with other modders? 
+You're welcome to join [Cities 2 Modding Discord](https://discord.gg/vd7HXnpPJf) or the Cities: [Skylines Modding Discord](https://discord.gg/27CVdGFA47).
