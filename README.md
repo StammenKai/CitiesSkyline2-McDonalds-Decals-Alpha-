@@ -19,3 +19,8 @@ Sully
 > [!TIP]
 > Looking to discuss Cities: Skylines 2 Unofficial modding together with other modders? 
 You're welcome to join [Cities 2 Modding Discord](https://discord.gg/vd7HXnpPJf) or the Cities: [Skylines Modding Discord](https://discord.gg/27CVdGFA47).
+>
+## Disclaimer
+This folder was originally created for Kaidius asset suites.
+Everyone is free to use the templates in this folder to create own images.
+Kaidius is not liable for any contents created from this template.
