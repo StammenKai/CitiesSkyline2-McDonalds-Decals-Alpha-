@@ -7,7 +7,8 @@ The project is currently in alpha stage and is still in production.
 This means that deviations and/or changes may arise in the future. This asset mod is still experimental and should be used at your own risk.
 
 ## To Use
-Download the McDonalds_decals_Alpha.zip  and extrakt it to your Cities Skyline 2 Game Mods folder -> C:\Users\YourName\AppData\LocalLow\Colossal Order\Cities Skylines II\Mods
+> [!NOTE]
+> Download the McDonalds_decals_Alpha.zip  and extrakt it to your Cities Skyline 2 Game Mods folder -> ***C:\Users\YourName\AppData\LocalLow\Colossal Order\Cities Skylines II\Mods***
 
 ## Required Mods:
 **Anarchy** : https://mods.paradoxplaza.com/mods/74604/Windows
