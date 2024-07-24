@@ -6,6 +6,13 @@ With these decals, you can attach advertising signs to buildings, but also creat
 The project is currently in alpha stage and is still in production. 
 This means that deviations and/or changes may arise in the future. This asset mod is still experimental and should be used at your own risk.
 
+## To Use
+Download the McDonalds_decals_Alpha.zip  and extrakt it to your Cities Skyline 2 Game Mods folder -> C:\Users\YourName\AppData\LocalLow\Colossal Order\Cities Skylines II\Mods
+
+## Required Mods:
+Anarchy : https://mods.paradoxplaza.com/mods/74604/Windows
+Asset Packs Manager: https://mods.paradoxplaza.com/mods/78903/Windows
+
 ## Support
 You can get support on [Discord by Sully](https://discord.gg/SHfQrBvnkp)
 
@@ -27,4 +34,6 @@ You're welcome to join [Cities 2 Modding Discord](https://discord.gg/vd7HXnpPJf)
 Kaidius is not liable for any contents created from this template.
 This asset mod is still experimental and should be used at your own risk.
 
-All rights reserved. All branch and trademarks named or possibly protected by a third party in this Mod are absolutely liable to the specifications of the respective trademark legislation and to the owner rights of the respective registered owner.  
+All rights reserved. 
+
+All branch and trademarks named or possibly protected by a third party in this Mod are absolutely liable to the specifications of the respective trademark legislation and to the owner rights of the respective registered owner.  
