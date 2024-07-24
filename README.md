@@ -10,8 +10,9 @@ This means that deviations and/or changes may arise in the future. This asset mo
 Download the McDonalds_decals_Alpha.zip  and extrakt it to your Cities Skyline 2 Game Mods folder -> C:\Users\YourName\AppData\LocalLow\Colossal Order\Cities Skylines II\Mods
 
 ## Required Mods:
-Anarchy : https://mods.paradoxplaza.com/mods/74604/Windows
-Asset Packs Manager: https://mods.paradoxplaza.com/mods/78903/Windows
+**Anarchy** : https://mods.paradoxplaza.com/mods/74604/Windows
+
+**Asset Packs Manager** : https://mods.paradoxplaza.com/mods/78903/Windows
 
 ## Support
 You can get support on [Discord by Sully](https://discord.gg/SHfQrBvnkp)
