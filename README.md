@@ -20,9 +20,7 @@ You can get support on [Discord by Sully](https://discord.gg/SHfQrBvnkp)
 **Triton Supreme**  https://github.com/AlphaGaming7780/ExtraAssetsImporter/wiki/Custom-Decals
 
 ## Special thanks go to:
-Sully  
-**YouTube:** https://www.youtube.com/@sully_skylines 
-**Twitter/X:** https://twitter.com/Sully_Skylines
+Sully - **YouTube:** https://www.youtube.com/@sully_skylines - **Twitter/X:** https://twitter.com/Sully_Skylines
 
 Qoushik / StarQ  - for his good work for the community. 
 
