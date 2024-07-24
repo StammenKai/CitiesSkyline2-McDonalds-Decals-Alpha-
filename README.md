@@ -22,6 +22,7 @@ Sully
 You're welcome to join [Cities 2 Modding Discord](https://discord.gg/vd7HXnpPJf) or the Cities: [Skylines Modding Discord](https://discord.gg/27CVdGFA47).
 >
 ## Disclaimer
-This folder was originally created for Kaidius asset suites.
-Everyone is free to use the templates in this folder to create own images.
 Kaidius is not liable for any contents created from this template.
+This asset mod is still experimental and should be used at your own risk.
+
+All rights reserved. All branch and trademarks named or possibly protected by a third party in this Mod are absolutely liable to the specifications of the respective trademark legislation and to the owner rights of the respective registered owner.  
